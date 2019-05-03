@@ -15,6 +15,15 @@ Your **README.md** file should be updated with instructions on both how to 1. Ru
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
+
+YOU CAN RUN THE GAME BY:
+Open the index.html
+
+HOW TO PLAY:
+try to gp to the other side to win the game 
+if you win the background-color will be green for a moment then the page will refresh .
+
+
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
